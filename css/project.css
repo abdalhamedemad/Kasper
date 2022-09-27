@@ -616,11 +616,11 @@ position: relative;
 
 
 .skills2 .rate li .box.id3::after {
-    content: '90%';
+    content: '20%';
     position: absolute;
     top: 0px;
     transform: translateY(calc(-100% - 5px ));
-    left: 90%;
+    left: 20%;
     background-color: var(--main-black-color);
     padding: 15px;
     color: var(--main-white-color);
@@ -632,7 +632,7 @@ position: relative;
     left: 0px;
     top: 0px;
     height: 100%;
-    width: 90%;
+    width: 20%;
     background-color: var(--main-blue-color);
 }
 
